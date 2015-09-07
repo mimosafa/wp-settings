@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DDBBD\\Settings\\": "lib"
+            "DDBBD\\Settings\\": "lib/"
         }
     }
 }
